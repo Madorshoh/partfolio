@@ -1,5 +1,5 @@
 import React from 'react'
-import Info from '../../components/info'
+import Info from '../../components/Info'
 import Stats from '../../components/Stats'
 import Skills from '../../components/Skills'
 import { resume } from '../../data'

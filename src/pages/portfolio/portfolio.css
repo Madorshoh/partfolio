@@ -3,20 +3,19 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    padding: 50px;
-    gap: 100px;
+    gap: 25px;
 }
 .portfolio__item{
     position: relative;
     border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
-    width: 400px;
-    height: 250px;
+    width: 300px;
+    height: 150px;
     box-shadow: 0 0 8px hsla(0, 0%, 0%, 0.3);
 }
 .portfolio__img{
-    height: 250px;
+    height: 150px;
     object-fit: cover;
 }
 .portfolio__img:hover{

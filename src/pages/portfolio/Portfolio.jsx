@@ -26,7 +26,6 @@ const Portfolio = () => {
                 transition: {
                   duration: 2,
                 },
-                // borderRadius: ["20%", "20%", "50%", "50%", "20%"],
               }}>
                 <Link to={item.app} target="_blank"><img src={item.img} alt="" className="portfolio__img" /></Link>
               </motion.div>

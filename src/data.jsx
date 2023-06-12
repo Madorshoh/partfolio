@@ -188,7 +188,7 @@ export const portfolio = [
     id: 3,
     img: Work3,
     title: 'Marvel films',
-    app :"https://marvel-rr3v.vercel.app/"
+    app :"https://marvel-peach.vercel.app/"
 
   },
 

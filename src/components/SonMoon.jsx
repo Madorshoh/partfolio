@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import { BsMoon, BsSun} from 'react-icons/bs';
-import { motion } from 'framer-motion'
 
 import "./SunMoon.css"
 
