@@ -15,7 +15,7 @@
 }
 .home__img img{
     border-radius: 30px;
-    box-shadow: 0 0 8px hsla(0, 0%, 0%, 0.3);
+    filter: drop-shadow( 10px 8px 6px red);
     width: 100%;
 }
 .img__left{
