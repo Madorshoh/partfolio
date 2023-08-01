@@ -1,5 +1,6 @@
 .navbar{
     width: 60px;
+    position: relative;
 }
 .nav__menu{
     position: fixed;
@@ -127,5 +128,10 @@
     .nav__link:hover .nav__icon,
     .active-nav {
         color: var(--text-white);
+    }
+}
+@media (max-width: 550px){
+    .nav__name{
+        font-size: var(--small-font-size);
     }
 }

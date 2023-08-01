@@ -40,4 +40,10 @@
         background-size: cover;
         width: 100%;
     }
+    .portfolio__title{
+        font-size: var(--4-font-size);
+    }
+    .portfolio__item{
+        width: 250px;
+    }
 }
